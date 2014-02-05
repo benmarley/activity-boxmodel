@@ -78,25 +78,30 @@ strong {
 article {
     margin: 0;
     padding: 3rem 4%;
-    overflow:hidden;
+    overflow: hidden;
 }
 
 footer {
-    background-color:green;
-    overflow:hidden;
+    background-color: green;
+    overflow: hidden;
 }
 
 footer a {
-    color:yellow;
+    color: yellow;
+}
+
+footer p {
+    margin: .5rem 5% 5rem;
 }
 
 figure {
     background: green;
-    padding:
+    width: 100%
+   
 }
 
 figcaption {
-    font-size:.75rem;
-    text-align:center;
+    font-size: .75rem;
+    text-align: center;
 }
     
