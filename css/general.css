@@ -26,27 +26,41 @@ html {
 
 img {
 	width: 100%;
-    display: block;
+    display:block;
 }
+
 body {
     margin: 0;
     border: 0;
 }
+
 h1 {
-    font-family:rockwell, "Times New Roman", serif;
-    font-size: 3rem;
+    font-family: Rockwell, "Times New Roman", serif;
+    font-size: 2.5rem;
     font-weight:200;
     background-color:white;
-    border:solid
+    border:solid;
+    overflow:hidden;
 }
+
 h2 {
     font-family:rockwell, "Times New Roman", serif;
     font-size: 1.5rem;
     font-weight:200
 }
+
 p {
     border: 0 0 2rem;
-    text-align:justify
+    text-align:justify;
+    margin: 5px
+}
+
+em {
+    color:white
+}
+
+strong {
+    font-family: "Bodoni MT", "Big Caslon", Serif
 }
 .masthead {
     background:green;
@@ -54,24 +68,35 @@ p {
     border-bottom:solid;
     border-bottom-width:thick
 }
+
 .logo {
     height: 8rem;
     width: auto;
     margin: 4rem 5%;
 }
+
 article {
     margin: 0;
-    padding: 2rem 4%;
+    padding: 3rem 4%;
     overflow:hidden;
 }
+
 footer {
     background-color:green;
     overflow:hidden;
 }
+
 footer a {
     color:yellow;
 }
+
 figure {
     background: green;
-    margin:
+    padding:
+}
+
+figcaption {
+    font-size:.75rem;
+    text-align:center;
+}
     
