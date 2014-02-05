@@ -19,9 +19,59 @@ html {
 	text-size-adjust: 100%;
     
     font-size: 100%;
+    font-family: Helvetica, Futura, Sans-Serif;
+    font-weight:200;
+    background-color:#66ccff;
 }
 
 img {
 	width: 100%;
     display: block;
 }
+body {
+    margin: 0;
+    border: 0;
+}
+h1 {
+    font-family:rockwell, "Times New Roman", serif;
+    font-size: 3rem;
+    font-weight:200;
+    background-color:white;
+    border:solid
+}
+h2 {
+    font-family:rockwell, "Times New Roman", serif;
+    font-size: 1.5rem;
+    font-weight:200
+}
+p {
+    border: 0 0 2rem;
+    text-align:justify
+}
+.masthead {
+    background:green;
+    overflow: hidden;
+    border-bottom:solid;
+    border-bottom-width:thick
+}
+.logo {
+    height: 8rem;
+    width: auto;
+    margin: 4rem 5%;
+}
+article {
+    margin: 0;
+    padding: 2rem 4%;
+    overflow:hidden;
+}
+footer {
+    background-color:green;
+    overflow:hidden;
+}
+footer a {
+    color:yellow;
+}
+figure {
+    background: green;
+    margin:
+    
