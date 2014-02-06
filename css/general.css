@@ -46,7 +46,8 @@ h1 {
 h2 {
     font-family:rockwell, "Times New Roman", serif;
     font-size: 1.5rem;
-    font-weight:200
+    font-weight:200;
+    border-style:groove
 }
 
 p {
@@ -66,7 +67,7 @@ strong {
     background:green;
     overflow: hidden;
     border-bottom:solid;
-    border-bottom-width:thick
+    border-style:dotted
 }
 
 .logo {
@@ -94,14 +95,13 @@ footer p {
     margin: .5rem 5% 5rem;
 }
 
-figure {
-    background: green;
-    width: 100%
-   
-}
-
 figcaption {
     font-size: .75rem;
     text-align: center;
+}
+
+figure {
+    background-color:green;
+    overflow:hidden;
 }
     
