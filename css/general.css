@@ -41,12 +41,12 @@ h1 {
     background-color: #ffffff;
     border: solid;
     overflow: hidden;
-    padding: 32px 0px 32px 9px;
+    padding: 1rem .5rem 2rem 1rem;
 }
 
 h2 {
     padding: 1.5rem;
-    font-family:Rockwell, "Times New Roman", Serif;
+    font-family: Rockwell, "Times New Roman", Serif;
     font-size: 2rem;
     font-weight: 200;
     border-style: groove;
