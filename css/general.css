@@ -35,25 +35,26 @@ body {
 }
 
 h1 {
-    font-family: Rockwell, "Times New Roman", serif;
+    font-family: Rockwell, "Times New Roman", Serif;
     font-size: 2.5rem;
-    font-weight:200;
-    background-color:white;
-    border:solid;
-    overflow:hidden;
+    font-weight: 200;
+    background-color: white;
+    border: solid;
+    overflow: hidden;
 }
 
 h2 {
-    font-family:rockwell, "Times New Roman", serif;
+    font-family:Rockwell, "Times New Roman", Serif;
     font-size: 1.5rem;
-    font-weight:200;
-    border-style:groove
+    font-weight: 200;
+    border-style: groove;
 }
 
 p {
     border: 0 0 2rem;
-    text-align:justify;
-    margin: 5px
+    text-align: justify;
+    margin: 5px;
+    line-height:1.5;
 }
 
 em {
@@ -101,7 +102,7 @@ figcaption {
 }
 
 figure {
-    background-color:green;
-    overflow:hidden;
+    background-color: green;
+    overflow: hidden;
 }
     
