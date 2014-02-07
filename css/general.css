@@ -91,13 +91,13 @@ footer {
     border-style: dotted;
 }
 
-footer a {
-    color: #ffff33;
-}
-
 footer p {
     margin: 1rem 4% 5rem;
     padding: 1rem 0 0;
+}
+
+footer a {
+    color: #ffff33;
 }
 
 figcaption {
